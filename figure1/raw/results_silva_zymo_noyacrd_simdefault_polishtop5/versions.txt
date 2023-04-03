@@ -1,0 +1,16 @@
+# Name                    Version                   Build  Channel
+bc                         1.07.1        h7f98852_0            conda-forge
+megan                      6.24.20       h9ee0642_0            bioconda   
+minimap2                   2.24          h7132678_1            bioconda   
+nanofilt                   2.8.0         py_0                  bioconda   
+nanoplot                   1.41.0        pyhdfd78af_0          bioconda   
+porechop                   0.2.4         py37h96cfd12_3        bioconda   
+procps-ng                  4.0.3         h8228510_0            conda-forge
+r-base                     4.0.5         h9e01966_1            conda-forge
+r-dplyr                    1.0.10        r40h7525677_0         conda-forge
+r-magrittr                 2.0.3         r40h06615bd_0         conda-forge
+r-optparse                 1.7.3         r40hc72bb7e_0         conda-forge
+samtools                   1.7           1                     bioconda   
+seqkit                     2.3.1         h9ee0642_0            bioconda   
+wget                       1.20.3        ha35d2d1_1            conda-forge
+yacrd                      1.0.0         hc308579_0            bioconda   

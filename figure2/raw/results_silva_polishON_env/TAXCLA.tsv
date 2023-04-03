@@ -1,0 +1,289 @@
+Kingdom	Phylum	Class	Order	Family	Genus	Species
+TAXA_001	Bacteria	NA	NA	NA	NA	NA	NA
+TAXA_002	Bacteria	Proteobacteria	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Rhizobium	NA
+TAXA_003	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	NA	NA
+TAXA_004	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	NA
+TAXA_005	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii
+TAXA_006	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	NA
+TAXA_007	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella aerogenes
+TAXA_008	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea agglomerans
+TAXA_009	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae
+TAXA_010	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pectobacteriaceae	Pectobacterium	Pectobacterium carotovorum
+TAXA_011	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+TAXA_012	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia fergusonii
+TAXA_013	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Pseudescherichia	Pseudescherichia vulneris
+TAXA_014	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	NA
+TAXA_015	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca
+TAXA_016	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+TAXA_017	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Raoultella	Raoultella planticola
+TAXA_018	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp.
+TAXA_019	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	NA
+TAXA_020	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	Kluyvera cryocrescens
+TAXA_021	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	NA
+TAXA_022	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	NA
+TAXA_023	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia marcescens
+TAXA_024	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella boydii
+TAXA_025	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella dysenteriae
+TAXA_026	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella flexneri
+TAXA_027	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella sonnei
+TAXA_028	Bacteria	Proteobacteria	Alphaproteobacteria	Hyphomicrobiales	Bradyrhizobiaceae	Rhodopseudomonas	Rhodopseudomonas palustris
+TAXA_029	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+TAXA_030	Bacteria	Firmicutes	NA	NA	NA	NA	NA
+TAXA_031	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria rosea
+TAXA_032	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	NA
+TAXA_033	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+TAXA_034	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus haemolyticus
+TAXA_035	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	NA
+TAXA_036	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis
+TAXA_037	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium
+TAXA_038	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+TAXA_039	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus anthracis
+TAXA_040	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	Brevibacillus brevis
+TAXA_041	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus
+TAXA_042	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus mycoides
+TAXA_043	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. (in: Bacteria)
+TAXA_044	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis
+TAXA_045	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thuringiensis
+TAXA_046	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	NA
+TAXA_047	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria ivanovii
+TAXA_048	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes
+TAXA_049	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria seeligeri
+TAXA_050	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria innocua
+TAXA_051	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria welshimeri
+TAXA_052	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Arthrobacter	NA
+TAXA_053	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium sp.
+TAXA_054	Bacteria	Actinobacteria	Actinomycetia	NA	NA	NA	NA
+TAXA_055	Eukaryota	unknown	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Alexandrium	Alexandrium tamarense
+TAXA_056	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter sakazakii
+TAXA_057	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+TAXA_058	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+TAXA_059	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus sp.
+TAXA_060	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	NA
+TAXA_061	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus sp.
+TAXA_062	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter crystallopoietes
+TAXA_063	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella granulomatis
+TAXA_064	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium acetylicum
+TAXA_065	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	NA
+TAXA_066	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas vesicularis
+TAXA_067	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp.
+TAXA_068	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sp.
+TAXA_069	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	NA
+TAXA_070	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Raoultella	Raoultella ornithinolytica
+TAXA_071	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	NA
+TAXA_072	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter asburiae
+TAXA_073	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Lelliottia	Lelliottia amnigena
+TAXA_074	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cancerogenus
+TAXA_075	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Lelliottia	Lelliottia nimipressuralis
+TAXA_076	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	Kluyvera georgiana
+TAXA_077	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas intermedia
+TAXA_078	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. FWC30
+TAXA_079	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	NA	NA
+TAXA_080	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	unknown	alpha proteobacterium MBIC3025
+TAXA_081	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	NA	NA
+TAXA_082	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Tatumella	NA
+TAXA_083	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leclercia	NA
+TAXA_084	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leclercia	Leclercia adecarboxylata
+TAXA_085	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	unknown	alpha proteobacterium MBIC3965
+TAXA_086	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	NA	NA
+TAXA_087	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
+TAXA_088	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea endophytica
+TAXA_089	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. LMG 9567t1
+TAXA_090	Eukaryota	Arthropoda	Hexanauplia	Calanoida	Calanidae	Calanus	Calanus glacialis
+TAXA_091	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	unknown	nitrogen-fixing bacterium CC262C
+TAXA_092	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pectobacteriaceae	Pectobacterium	NA
+TAXA_093	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium antarcticum
+TAXA_094	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter youngae
+TAXA_095	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus toyonensis
+TAXA_096	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter hormaechei
+TAXA_097	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Raoultella	NA
+TAXA_098	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas nasdae
+TAXA_099	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. Kaza-37
+TAXA_100	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pectobacteriaceae	Pectobacterium	Pectobacterium brasiliense
+TAXA_101	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	NA
+TAXA_102	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter kobei
+TAXA_103	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia albertii
+TAXA_104	Bacteria	unknown	unknown	unknown	unknown	unknown	swine manure bacterium RT-19B
+TAXA_105	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium oxidotolerans
+TAXA_106	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. P4
+TAXA_107	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium L9
+TAXA_108	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium L11
+TAXA_109	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium K2-46
+TAXA_110	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella variicola
+TAXA_111	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium Te65R
+TAXA_112	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium indicum
+TAXA_113	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter ludwigii
+TAXA_114	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia ureilytica
+TAXA_115	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria aegyptia
+TAXA_116	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sibiricum
+TAXA_117	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. Antarctic IS04
+TAXA_118	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. Z-16
+TAXA_119	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria turfanensis
+TAXA_120	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. MYC
+TAXA_121	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium 8-gw1-9
+TAXA_122	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium CCBAU 15570
+TAXA_123	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium CCBAU 15557
+TAXA_124	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. P-104
+TAXA_125	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. HLA
+TAXA_126	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. GIST-CPan2
+TAXA_127	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. GIST-WP2s2
+TAXA_128	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. GIST-NKst3
+TAXA_129	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. GIST-NKst8
+TAXA_130	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria flava
+TAXA_131	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. RM1
+TAXA_132	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. cp-h60
+TAXA_133	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. YC21R
+TAXA_134	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. cp-h58
+TAXA_135	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter mori
+TAXA_136	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. MB-1-6-6
+TAXA_137	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. CTSP22
+TAXA_138	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. 3034BRRJ
+TAXA_139	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. rif200834
+TAXA_140	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. enrichment culture clone SYW1
+TAXA_141	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. enrichment culture clone SYW15
+TAXA_142	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. enrichment culture clone SYW7
+TAXA_143	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. USC7
+TAXA_144	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. LCR75
+TAXA_145	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. EB2-THQ
+TAXA_146	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. B363
+TAXA_147	Bacteria	Proteobacteria	unknown	unknown	unknown	unknown	proteobacterium symbiont of Nilaparvata lugens
+TAXA_148	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. M1T2B6
+TAXA_149	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. M6
+TAXA_150	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. ljh-7
+TAXA_151	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. 2009I10
+TAXA_152	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. BIHB 344
+TAXA_153	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. enrichment culture clone SRC_DSA17
+TAXA_154	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. enrichment culture clone SRC_DSA9
+TAXA_155	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. enrichment culture clone SRC_DSB1
+TAXA_156	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. enrichment culture clone NBAR020
+TAXA_157	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. SRC_DSD3
+TAXA_158	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium CTS-Mc1
+TAXA_159	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. enrichment culture clone SRC_DSD18
+TAXA_160	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. CN1
+TAXA_161	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. M68
+TAXA_162	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. VITPGP4A
+TAXA_163	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. VITPGP5AB
+TAXA_164	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. TG-1
+TAXA_165	Bacteria	Proteobacteria	unknown	unknown	unknown	unknown	proteobacterium ARJR SMBS
+TAXA_166	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. R-37024
+TAXA_167	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. enrichment culture clone HSL37
+TAXA_168	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. enrichment culture clone HSL85
+TAXA_169	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. enrichment culture clone HSL61
+TAXA_170	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. YX116S
+TAXA_171	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. DYJL43
+TAXA_172	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium TOPO-2YTclone1B
+TAXA_173	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. BR3341
+TAXA_174	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus argenteus
+TAXA_175	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria oceani
+TAXA_176	Bacteria	unknown	unknown	unknown	unknown	unknown	endophytic bacterium 40L-1
+TAXA_177	Bacteria	unknown	unknown	unknown	unknown	unknown	endophytic bacterium 135L-3
+TAXA_178	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. SEL2
+TAXA_179	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus sp. L177(2011)
+TAXA_180	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. MPR16
+TAXA_181	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. NBRC 101767
+TAXA_182	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. RJ-03
+TAXA_183	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella michiganensis
+TAXA_184	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. SRI 211
+TAXA_185	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. D5A
+TAXA_186	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. VITNC1
+TAXA_187	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. VITC1
+TAXA_188	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-P150
+TAXA_189	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-P21
+TAXA_190	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-P275
+TAXA_191	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. SSBC2
+TAXA_192	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. PXG11
+TAXA_193	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. SU-14
+TAXA_194	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	unknown	unknown	Enterobacteriales bacterium XT12
+TAXA_195	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	unknown	Enterobacteriaceae bacterium CICR-WR
+TAXA_196	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium NLAE-zl-H79
+TAXA_197	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. A11
+TAXA_198	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sp. ZWU0009
+TAXA_199	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. Q-20
+TAXA_200	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. BTSUK
+TAXA_201	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. A2(2012b)
+TAXA_202	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. M-10
+TAXA_203	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-1
+TAXA_204	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-14
+TAXA_205	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-15
+TAXA_206	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-18
+TAXA_207	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-22
+TAXA_208	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium RB5-FF-9
+TAXA_209	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. G1-15
+TAXA_210	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. G1-6
+TAXA_211	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. G2-4
+TAXA_212	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. SFR-112
+TAXA_213	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. WB-1
+TAXA_214	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. TCP31
+TAXA_215	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium 14W323
+TAXA_216	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium W29
+TAXA_217	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus sp. Org
+TAXA_218	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. D11(2013)
+TAXA_219	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Lelliottia	NA
+TAXA_220	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. HHP1
+TAXA_221	Bacteria	Firmicutes	unknown	unknown	unknown	unknown	Firmicutes bacterium K11
+TAXA_222	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus sp. Gf2
+TAXA_223	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. 88
+TAXA_224	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. D3
+TAXA_225	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	unknown	Enterobacteriaceae bacterium BDR6
+TAXA_226	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sp. MH3
+TAXA_227	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium endosymbiont of Onthophagus Taurus
+TAXA_228	Bacteria	Proteobacteria	unknown	unknown	unknown	unknown	proteobacterium BAB-3115
+TAXA_229	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. CG3
+TAXA_230	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasipneumoniae
+TAXA_231	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. J4-1
+TAXA_232	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. S21920
+TAXA_233	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. Act48
+TAXA_234	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. FSBSY13
+TAXA_235	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. CZBSY4
+TAXA_236	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. XBBRY2
+TAXA_237	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. XBBSY5
+TAXA_238	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. CR45
+TAXA_239	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. DS20
+TAXA_240	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. HC1
+TAXA_241	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. E20
+TAXA_242	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. RM1(2014)
+TAXA_243	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. B10(2014)
+TAXA_244	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. FB
+TAXA_245	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. L331
+TAXA_246	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. PR17
+TAXA_247	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. FXJ8.100
+TAXA_248	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. FXJ8.107
+TAXA_249	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. FXJ8.112
+TAXA_250	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp. FXJ8.136
+TAXA_251	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. MCC64A2
+TAXA_252	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. LD2
+TAXA_253	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. NGB-FR106
+TAXA_254	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. UIWRF0499
+TAXA_255	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium Amlc10
+TAXA_256	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium M3-29
+TAXA_257	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium t3-14
+TAXA_258	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	unknown	Enterobacteriaceae bacterium GN6
+TAXA_259	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. YN12
+TAXA_260	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter sp. CH-51
+TAXA_261	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium R36
+TAXA_262	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. KUBT1
+TAXA_263	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. A20-KP16
+TAXA_264	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. D1Ss49
+TAXA_265	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter roggenkampii
+TAXA_266	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. D1Mr31
+TAXA_267	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. L2
+TAXA_268	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella sp. Jilu WG157
+TAXA_269	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. GW460-12-10-14-LB2
+TAXA_270	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. FDAARGOS_235
+TAXA_271	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sp. mkj-29
+TAXA_272	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. UASP16
+TAXA_273	Bacteria	Firmicutes	Bacilli	Bacillales	unknown	Exiguobacterium	Exiguobacterium sp. U13-1
+TAXA_274	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. HK169
+TAXA_275	Bacteria	unknown	unknown	unknown	unknown	unknown	bacterium
+TAXA_276	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Kocuria	Kocuria sp.
+TAXA_277	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. ABP14
+TAXA_278	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	NA	NA
+TAXA_279	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	NA	NA
+TAXA_280	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. ECNIH7
+TAXA_281	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Leclercia	Leclercia sp. LSNIH3
+TAXA_282	Bacteria	Proteobacteria	Gammaproteobacteria	unknown	unknown	Candidatus Nardonella	Candidatus Nardonella dryophthoridicola
+TAXA_283	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. Crenshaw
+TAXA_284	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus mobilis
+TAXA_285	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasivariicola
+TAXA_286	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp.
+TAXA_287	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. FDA-CDC-AR_0132
+TAXA_288	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter sp. DKU_NT_01

@@ -1,0 +1,22 @@
+tax_id	abundance	species	genus	family	order	class	phylum	clade	superkingdom	subspecies	species subgroup	species group
+1639	0.08301905275015918	Listeria monocytogenes	Listeria	Listeriaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			
+388357	0.014605292204758568	Kocuria turfanensis	Kocuria	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria			
+1038857	0.00406105049653439	Kocuria sediminis	Kocuria	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria			
+1275	0.05376355453115506	Kocuria rosea	Kocuria	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria			
+988827	0.0035504558209031303	Kocuria oceani	Kocuria	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria			
+446860	0.00865499983884661	Kocuria flava	Kocuria	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Terrabacteria group	Bacteria			
+1428	0.0696957153125239	Bacillus thuringiensis	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group
+1396	0.013372316229819384	Bacillus cereus	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			Bacillus cereus group
+1849031	0.06293556292650972	Exiguobacterium sp. U13-1	Exiguobacterium		Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			
+1224749	0.020426341368929513	Exiguobacterium sp. ZWU0009	Exiguobacterium		Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			
+573	0.24291625207164033	Klebsiella pneumoniae	Klebsiella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			
+1463165	0.000790755758761446	Klebsiella quasipneumoniae	Klebsiella	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			
+562	0.08870145385572278	Escherichia coli	Escherichia	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			
+550	0.0007155500161767892	Enterobacter cloacae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+1812935	0.0012763699726428238	Enterobacter roggenkampii	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+61645	0.012978944400770825	Enterobacter asburiae	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+2027919	0.06864653472655881	Enterobacter cloacae complex sp.	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria		Bacteria			Enterobacter cloacae complex
+1280	0.08350884067198903	Staphylococcus aureus	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			
+1351	0.08228437086741441	Enterococcus faecalis	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Terrabacteria group	Bacteria			
+2579977	0.08409658617818484	Brevundimonas sp. SGAir0440	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria		Bacteria			
+unassigned	-											

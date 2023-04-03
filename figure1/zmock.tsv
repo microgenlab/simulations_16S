@@ -1,0 +1,9 @@
+Species	Genus	Family	expected
+Listeria monocytogenes	Listeria	 Listeriaceae	14,10
+Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	4,20
+Bacillus subtilis	Bacillus	 Bacillaceae	17,40
+Escherichia coli	Escherichia	Enterobacteriaceae	10,10
+Salmonella enterica	Salmonella	Enterobacteriaceae	10,40
+Limosilactobacillus fermentum	Limosilactobacillus	 Lactobacillaceae	18,40
+Enterococcus faecalis	Enterococcus	Enterococcaceae	9,90
+Staphylococcus aureus	Staphylococcus	Staphylococcaceae	15,50

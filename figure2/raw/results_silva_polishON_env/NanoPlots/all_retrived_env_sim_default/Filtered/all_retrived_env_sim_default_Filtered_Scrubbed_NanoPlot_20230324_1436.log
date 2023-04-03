@@ -1,0 +1,23 @@
+2023-03-24 14:36:54,646 NanoPlot 1.41.0 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', colormap='Greens', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['Filt_Scrubb_all_retrived_env_sim_default.fastq'], fastq_minimal=None, fastq_rich=None, feather=None, font_scale=1, format=['png'], hide_stats=False, huge=False, info_in_report=False, legacy=None, listcolormaps=False, listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, no_static=False, no_supplementary=False, outdir='.', path='./all_retrived_env_sim_default_Filtered_Scrubbed_', percentqual=False, pickle=None, plots=['kde', 'dot'], prefix='all_retrived_env_sim_default_Filtered_Scrubbed_', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=1, title=None, tsv_stats=False, ubam=None, verbose=False)
+2023-03-24 14:36:54,646 Python version is: 3.7.12 | packaged by conda-forge | (default, Oct 26 2021, 06:08:21)  [GCC 9.4.0]
+2023-03-24 14:36:54,670 Nanoget: Starting to collect statistics from plain fastq file.
+2023-03-24 14:37:00,012 Reduced DataFrame memory usage from 0.54931640625Mb to 0.3204345703125Mb
+2023-03-24 14:37:00,032 Nanoget: Gathered all metrics of 24000 reads
+2023-03-24 14:37:00,056 Calculated statistics
+2023-03-24 14:37:00,057 Using sequenced read lengths for plotting.
+2023-03-24 14:37:00,062 NanoPlot:  Valid color #4CB391.
+2023-03-24 14:37:00,063 NanoPlot:  Valid colormap Greens.
+2023-03-24 14:37:00,067 NanoPlot:  Creating length plots for Read length.
+2023-03-24 14:37:00,067 NanoPlot:  Using 24000 reads maximum of 1594bp.
+2023-03-24 14:37:02,570 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_WeightedHistogramReadlength  as png (or png for --legacy)
+2023-03-24 14:37:03,529 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_WeightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2023-03-24 14:37:04,437 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_Non_weightedHistogramReadlength  as png (or png for --legacy)
+2023-03-24 14:37:05,319 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_Non_weightedLogTransformed_HistogramReadlength  as png (or png for --legacy)
+2023-03-24 14:37:07,345 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_Yield_By_Length  as png (or png for --legacy)
+2023-03-24 14:37:07,349 Created length plots
+2023-03-24 14:37:07,354 NanoPlot: Creating Read lengths vs Average read quality plots using 24000 reads.
+2023-03-24 14:37:09,324 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_LengthvsQualityScatterPlot_dot  as png (or png for --legacy)
+2023-03-24 14:37:12,570 Saved ./all_retrived_env_sim_default_Filtered_Scrubbed_LengthvsQualityScatterPlot_kde  as png (or png for --legacy)
+2023-03-24 14:37:12,571 Created LengthvsQual plot
+2023-03-24 14:37:12,572 Writing html report.
+2023-03-24 14:37:12,595 Finished!

@@ -1,0 +1,7 @@
+pysam,0.20.0
+pandas,1.5.2
+fastcat,0.7.0
+minimap2,2.24-r1122
+samtools,1.16.1
+taxonkit,v0.14.1
+Kraken,2.1.2

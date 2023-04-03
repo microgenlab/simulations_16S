@@ -1,0 +1,66 @@
+{
+    "help": false,
+    "version": false,
+    "fastq": "barcode01/",
+    "sample": null,
+    "sample_sheet": null,
+    "max_len": null,
+    "min_len": 0,
+    "taxonomy": null,
+    "classifier": "minimap2",
+    "reference": null,
+    "ref2taxid": null,
+    "minimap2filter": null,
+    "minimap2exclude": false,
+    "split_prefix": false,
+    "database": null,
+    "bracken_dist": null,
+    "bracken_length": null,
+    "bracken_level": "S",
+    "out_dir": "output",
+    "disable_ping": false,
+    "threads": 2,
+    "aws_image_prefix": null,
+    "aws_queue": null,
+    "batch_size": 0,
+    "watch_path": false,
+    "store_dir": "store_dir",
+    "read_limit": null,
+    "port": 8080,
+    "database_set": "ncbi_16s_18s",
+    "database_sets": {
+        "ncbi_16s_18s": {
+            "reference": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ncbi_targeted_loci_16s_18s.fna",
+            "refindex": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ncbi_targeted_loci_16s_18s.fna.fai",
+            "database": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ncbi_targeted_loci_kraken2.tar.gz",
+            "kmer_dist": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/database1000mers.kmer_distrib",
+            "ref2taxid": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s/ref2taxid.targloci.tsv",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/taxdmp_2023-01-01.zip"
+        },
+        "ncbi_16s_18s_28s_ITS": {
+            "reference": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ncbi_16s_18s_28s_ITS.fna",
+            "refindex": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ncbi_16s_18s_28s_ITS.fna.fai",
+            "database": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ncbi_16s_18s_28s_ITS_kraken2.tar.gz",
+            "kmer_dist": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/database1000mers.kmer_distrib",
+            "ref2taxid": "https://ont-exd-int-s3-euwst1-epi2me-labs.s3.amazonaws.com/wf-metagenomics/ncbi_16s_18s_28s_ITS/ref2taxid.ncbi_16s_18s_28s_ITS.tsv",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/taxdmp_2023-01-01.zip"
+        },
+        "PlusPF-8": {
+            "database": "https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_08gb_20221209.tar.gz",
+            "taxonomy": "https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump_archive/taxdmp_2022-09-01.zip"
+        }
+    },
+    "process_label": "wfmetagenomics",
+    "monochrome_logs": false,
+    "validate_params": true,
+    "show_hidden_params": false,
+    "analyse_unclassified": false,
+    "schema_ignore_params": "show_hidden_params,validate_params,monochrome_logs,aws_queue,aws_image_prefix,pangolin_version,wf,process_label",
+    "wf": {
+        "example_cmd": [
+            "--fastq test_data/barcode01/reads.fastq.gz"
+        ],
+        "agent": null,
+        "container_sha": "sha1e115f37e792823e57976e905c62e631d4633206"
+    }
+}
